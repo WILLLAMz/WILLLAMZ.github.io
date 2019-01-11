@@ -27,6 +27,7 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-kagami
+
 plugins:
   - jekyll-feed
 
@@ -41,3 +42,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+# 
+
